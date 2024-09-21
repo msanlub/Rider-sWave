@@ -1,4 +1,4 @@
-![](img/informeTecnico.jpg)
+![](./img/informeTecnico.jpg)
 
 ## 1. MODELO EJECUCIÓN CLIENTE/SERVIDOR
 
@@ -98,4 +98,4 @@ Esta web con aplicación móvil engloba todo para poder crear una unión entre r
 Cualquier afición es mejor si tenemos con quién compatirlas.
 
 
- | [Inicio](./index.md) |  [Propuesta](pages/Propuesta.md)
+ | [Inicio](./index.md) |  [Propuesta](./pages/Propuesta.md)
