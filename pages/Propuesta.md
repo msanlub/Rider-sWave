@@ -86,4 +86,4 @@ React es una librería que ofrece muchas funcionalidades.
 
  WebSocket, librería para el uso del chat de los grupos en linea sin tener que refrescar la página.
 
- | [Inicio](./README.md) |  [Informe técnico](/InformeTecnico.md)
+ | [Inicio](index.md) |  [Informe técnico](pages/InformeTecnico.md)
