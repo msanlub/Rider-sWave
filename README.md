@@ -1,6 +1,11 @@
-# Rider'sWave  
+# RIDER'S WAVE
 
-![Texto alternativo]([https://img.pymecar.com/imgweb/17/aa230422111412.jpg])
+![](img/saludoMotero.jpg)
 
 
-### Red social motera
+## RED SOCIAL MOTERA
+
+Donde compartir tus rutas favoritas con tus amigos y seguir eventos nacionales
+
+
+| [Propuesta](/Propuesta.md) |  [Informe técnico](/InformeTecnico.md)
