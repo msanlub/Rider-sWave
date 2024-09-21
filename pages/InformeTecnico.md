@@ -98,4 +98,4 @@ Esta web con aplicación móvil engloba todo para poder crear una unión entre r
 Cualquier afición es mejor si tenemos con quién compatirlas.
 
 
- | [Inicio](./README.md) |  [Propuesta](/Propuesta.md)
+ | [Inicio](./index.md) |  [Propuesta](pages/Propuesta.md)
