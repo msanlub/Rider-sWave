@@ -1,4 +1,4 @@
-![](./img/propuesta.jpg)
+![](../img/propuesta.jpg)
 
 ## 1. IDEA
 
@@ -68,11 +68,10 @@ En el futuro se puede ampliar a cualquier otro público (ciclismo, paddle-surf, 
 
 He decidido usar JavaScript en Frontend y Backend.
 
-- En Frontend:
-
+- **En Frontend:**
 React es una librería que ofrece muchas funcionalidades.
 
-- En Backend:
+- **En Backend**:
 
  Necesito NodeJs para ejecutar JavaScript fuera del navegador, Express para desarrollarlo de manera fácil y usar diferentes librerías.
 
@@ -80,10 +79,10 @@ React es una librería que ofrece muchas funcionalidades.
 
  Heroku para despliegue de la web una vez desarrollada.
 
- - En front y back:
+ - **En front y back**:
 
  React Native para desarrollar una app móvil de mi web.
 
  WebSocket, librería para el uso del chat de los grupos en linea sin tener que refrescar la página.
 
- | [Inicio](index.md) |  [Informe técnico](pages/InformeTecnico.md)
+ | [Inicio](../index.md) |  [Informe técnico](./InformeTecnico.md)
