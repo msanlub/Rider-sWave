@@ -1,4 +1,4 @@
-![](img/propuesta.jpg)
+![](./img/propuesta.jpg)
 
 ## 1. IDEA
 
