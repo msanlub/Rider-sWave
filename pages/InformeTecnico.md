@@ -97,5 +97,29 @@ Esta web con aplicación móvil engloba todo para poder crear una unión entre r
 
 Cualquier afición es mejor si tenemos con quién compatirlas.
 
+*Bibliografía*
+
+**Modelo cliente servidor**
+- [Todo sobre la arquitectura cliente-servidor (Arsys)](https://www.arsys.es/blog/todo-sobre-la-arquitectura-cliente-servidor)
+
+- [Modelo cliente-servidor (IONOS)](https://www.ionos.es/digitalguide/servidores/know-how/modelo-cliente-servidor/)
+
+- [Lenguajes del lado servidor o cliente (Hostinet)](https://www.hostinet.com/formacion/general/lenguajes-del-lado-servidor-o-cliente/)
+
+**Compatibilidad de navegadores**
+- [JavaScript y cross-browser: buenas prácticas para evitar problemas de compatibilidad (La Divina Proporción)](https://ladivinaproporcion.es/javascript-y-cross-browser-buenas-practicas-para-evitar-problemas-de-compatibilidad/)
+
+- [¿Por qué los navegadores no implementan TypeScript nativamente? (Quora)](https://es.quora.com/Por-qu%C3%A9-los-navegadores-no-implementan-TypeScript-nativamente)
+
+**Node.js:**
+- [Cómo construir una aplicación de chat en tiempo real en Node.js usando Express, Mongoose y Socket.io (freeCodeCamp)](https://www.freecodecamp.org/espanol/news/como-construir-una-aplicacion-de-chat-en-tiempo-real-en-node-js-usando-express-mongoose-and-socket-io/)
+
+- [Difference between JavaScript and Node.js (Reddit)](https://www.reddit.com/r/learnprogramming/comments/vfts23/difference_between_javascript_and_nodejs/)
+
+- [Bibliotecas Node.js (Kinsta)](https://kinsta.com/es/blog/bibliotecas-node-js/)
+
+- [Node.js: framework y casos de uso (Arsys)](https://www.arsys.es/blog/nodejs-framewok#:~:text=Podr%C3%ADamos%20decir%2C%20en%20cambio%2C%20que,gama%20de%20casos%20de%20uso.)
+
+
 
  | [Inicio](../index.md) |  [Propuesta](./Propuesta.md)
