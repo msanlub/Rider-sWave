@@ -85,4 +85,24 @@ React es una librería que ofrece muchas funcionalidades.
 
  WebSocket, librería para el uso del chat de los grupos en linea sin tener que refrescar la página.
 
+ 
+
+*Bibliografía*
+
+ **LENGUAJES DE PROGRAMACIÓN:**
+
+- [Browser support for JavaScript APIs (MDN)](https://developer.mozilla.org/es/docs/Mozilla/Add-ons/WebExtensions/Browser_support_for_JavaScript_APIs)
+  
+- [TypeScript vs JavaScript: Similitudes y diferencias (Imagina Formación)](https://imaginaformacion.com/tutoriales/typescript-vs-javascript-similitudes-y-diferencias)
+  
+- [¿Qué es TypeScript vs JavaScript? (Profile)](https://profile.es/blog/que-es-typescript-vs-javascript/)
+  
+- [Características y ventajas del lenguaje Elm (OpenWebinars)](https://openwebinars.net/blog/caracteristicas-y-ventajas-del-lenguaje-elm/)
+  
+- [Best front-end languages to learn (Marketing Lad)](https://marketinglad.io/es/best-front-end-languages-to-learn/)
+
+- [Cómo integramos los lenguajes HTML, CSS y JavaScript (Cursos GIS)](https://www.cursosgis.com/como-integramos-los-lenguajes-html-css-y-javascript/)
+
+
+
  | [Inicio](../index.md) |  [Informe técnico](./InformeTecnico.md)
